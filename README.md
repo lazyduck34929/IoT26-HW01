@@ -3,7 +3,7 @@ Repository for documenting 'Introduction to the Internet of Things HW01'
 
 HW 1: Control Raspberry Pi Digital Outputs with Python (LED)
 
-Screenshot of RPI IDE
+Code
 <img width="1692" height="1922" alt="hw1 ide" src="https://github.com/user-attachments/assets/245a497d-fc6b-4e52-bbba-d4667d409eb3" />
 
 
