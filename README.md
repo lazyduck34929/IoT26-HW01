@@ -8,6 +8,7 @@ Screenshot of RPI IDE
 
 
 GIF of result
+
 <img width="400" height="711" alt="Image" src="https://github.com/user-attachments/assets/f4b4a73f-d80d-4dbd-b57b-afa4b2498872" />
 
 
